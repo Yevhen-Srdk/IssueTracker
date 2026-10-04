@@ -1,0 +1,23 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "issues": [],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "userName": "Yevhen Serdiuk",
+      "userPassword": "1111"
+    }
+  ]
+}
